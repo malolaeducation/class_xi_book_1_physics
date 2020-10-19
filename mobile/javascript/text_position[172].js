@@ -1,0 +1,1 @@
+﻿positionForPages[172]={page:172,positions:[{word:"PHYSICS  —   CIRCULAR MOTION  (MAINS)",left:0.100190,top:0.043017,width:0.326333,height:0.010553},{word:"   [ 156 ]",left:0.856364,top:0.042449,width:0.052542,height:0.010553}]};
